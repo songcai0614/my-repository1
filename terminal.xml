@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Windows\system32\cmd.exe" />
-    <option name="myTabName" value="本地" />
+    <option name="myShellPath" value="cmd.exe &quot;/K&quot; D:\ProgramData\Anaconda3\Scripts\activate.bat D:\ProgramData\Anaconda3" />
+    <option name="myTabName" value="Anaconda Prompt" />
   </component>
 </application>
