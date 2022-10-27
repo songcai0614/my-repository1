@@ -1,0 +1,28 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="slice" />
+      <item value="ndimage" />
+      <item value="valid rate" />
+      <item value="exists" />
+      <item value="expand slice" />
+      <item value="classes" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1666877274424" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200305000393002" />
+      </app-key>
+    </option>
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="702e8bcf19a93b80" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
