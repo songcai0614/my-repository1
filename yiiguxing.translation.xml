@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enumerate" />
       <item value="None Type" />
       <item value="'NoneType' object is not iterable" />
       <item value="January" />
@@ -26,13 +27,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="16" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666877274424" />
+    <option name="lastTrimTime" value="1667972689754" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
