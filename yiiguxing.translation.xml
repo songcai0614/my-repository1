@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="criterion" />
       <item value="preprocessing procedures" />
       <item value="enumerate" />
       <item value="None Type" />
@@ -28,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="18" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
