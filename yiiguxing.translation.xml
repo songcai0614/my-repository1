@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recommend" />
+      <item value="tumor(recommended)" />
+      <item value="by tumor(recommended)" />
       <item value="Exception thrown in SimpleITK ImageFileReader_Execute" />
       <item value="RuntimeError: Exception thrown in SimpleITK ImageFileReader_Execute: D:\a\1\sitk\Code\IO\src\sitkImageReaderBase.cxx:97:" />
       <item value="TypeError: unsupported operand type(s) for -: 'str' and 'str'" />
@@ -39,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="32" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
