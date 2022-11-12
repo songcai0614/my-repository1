@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="RuntimeError: Exception thrown in SimpleITK ImageFileReader_Execute: D:\a\1\sitk\Code\IO\src\sitkImageReaderBase.cxx:97: sitk::ERROR: The file &quot;F:\tiaozhenghou_ceshi\pancreas_001.nii.gz&quot; does not exist." />
       <item value="AttributeError: module 'SimpleITK' has no attribute 'GetArrayFromImge'" />
+      <item value="RuntimeError: Exception thrown in SimpleITK ImageFileReader_Execute: D:\a\1\sitk\Code\IO\src\sitkImageReaderBase.cxx:97: sitk::ERROR: The file &quot;F:\tiaozhenghou_ceshi\pancreas_001.nii.gz&quot; does not exist." />
       <item value="SyntaxError: invalid character in identifier" />
       <item value="TypeError: nii_to_image() missing 1 required positional argument: 'maskimg_fdata'" />
       <item value="subscriptable" />
@@ -35,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="25" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
