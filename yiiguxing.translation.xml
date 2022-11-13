@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TypeError: expected str, bytes or os.PathLike object, not generator" />
       <item value="ValueError: too many values to unpack (expected 2)" />
       <item value="recommend" />
       <item value="tumor(recommended)" />
@@ -43,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="34" />
         <entry key="HINDI" value="1" />
       </map>
     </option>
