@@ -37,6 +37,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="黑马ATM.*" />
+        <option value="列表练习题.*" />
       </list>
     </option>
   </inspection_tool>
