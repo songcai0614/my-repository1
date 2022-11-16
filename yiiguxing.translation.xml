@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fromarray" />
+      <item value="hue" />
+      <item value="jitter" />
       <item value="parentheses" />
       <item value="SyntaxError: Missing parentheses in call to 'print'. Did you mean print(i, element)?" />
       <item value="Missing" />
@@ -48,14 +51,11 @@
       <item value="Unable to determine ImageIO reader for &quot;.raw_datasettrainct\pancreas_001.nii&quot;" />
       <item value="Unable to determine ImageIO reader for" />
       <item value="Runtime Error" />
-      <item value="RuntimeError: Exception thrown in SimpleITK ImageFileReader_Execute: D:\a\1\sitk\Code\IO\src\sitkImageReaderBase.cxx:105: sitk::ERROR: Unable to determine ImageIO reader for &quot;.raw_datasettrainct\pancreas_001.nii&quot;" />
-      <item value="raw dataset" />
-      <item value="new_seg.SetDirection(ct.GetDirection()) new_seg.SetOrigin(ct.GetOrigin()) new_seg.SetSpacing((ct.GetSpacing()[0] int(1 self.xy_down_scale), ct.GetSpacing()[1] int(1 self.xy_down_scale), self.slice_down_scale)) return new_ct, new_seg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="53" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="1" />
