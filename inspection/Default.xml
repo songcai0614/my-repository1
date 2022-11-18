@@ -39,6 +39,7 @@
       <list>
         <option value="黑马ATM.*" />
         <option value="列表练习题.*" />
+        <option value="str.*" />
       </list>
     </option>
   </inspection_tool>
