@@ -40,6 +40,7 @@
         <option value="黑马ATM.*" />
         <option value="列表练习题.*" />
         <option value="str.*" />
+        <option value="my_utils.*" />
       </list>
     </option>
   </inspection_tool>
