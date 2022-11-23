@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SyntaxError: invalid decimal literal" />
       <item value="Keyboard Interrupt" />
       <item value="Record" />
       <item value="TypeError: 'type' object is not subscriptable" />
@@ -50,12 +51,11 @@
       <item value="RuntimeError: Exception thrown in SimpleITK ImageFileReader_Execute: D:\a\1\sitk\Code\IO\src\sitkImageReaderBase.cxx:97: sitk::ERROR: The file &quot;F:\tiaozhenghou_ceshi\pancreas_001.nii.gz&quot; does not exist." />
       <item value="SyntaxError: invalid character in identifier" />
       <item value="TypeError: nii_to_image() missing 1 required positional argument: 'maskimg_fdata'" />
-      <item value="NoneType' object is not subscriptable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="70" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="1" />
