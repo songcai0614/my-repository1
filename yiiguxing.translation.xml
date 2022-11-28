@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ZeroDivisionError: division by zero" />
       <item value="interpolate" />
       <item value="height" />
       <item value="align corners" />
@@ -50,12 +51,11 @@
       <item value="tumor(recommended)" />
       <item value="by tumor(recommended)" />
       <item value="Exception thrown in SimpleITK ImageFileReader_Execute" />
-      <item value="RuntimeError: Exception thrown in SimpleITK ImageFileReader_Execute: D:\a\1\sitk\Code\IO\src\sitkImageReaderBase.cxx:97:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="78" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="1" />
