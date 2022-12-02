@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="zeros" />
+      <item value="traub" />
       <item value="temp" />
       <item value="You may be wondering what this giant blob of binary data here is, you might even be worried that we're up to something nefarious (good for you for being paranoid!). This is a base85 encoding of a zip file, this zip file contains an entire copy of pip (version 22.2.2). Pip is a thing that installs packages, pip itself is a package that someone might want to install, especially if they're looking to run this get-pip.py script. Pip has a lot of code to deal with the security of installing packages, various edge cases on various platforms, and other such sort of &quot;tribal knowledge&quot; that has been encoded in its code base. Because of this we basically include an entire copy of pip inside this blob. We do this because the alternatives are attempt to implement a &quot;minipip&quot; that probably doesn't do things correctly and has weird edge cases, or compress pip itself down into a single file. If you're wondering how this is created, it is generated using `scriptsgenerate.py` in https:github.compypaget-pip." />
       <item value="Creates a new image with the given mode and size. :param mode: The mode to use for the new image. See: :ref:`concept-modes`. :param size: A 2-tuple, containing (width, height) in pixels. :param color: What color to use for the image. Default is black. If given, this should be a single integer or floating point value for single-band modes, and a tuple for multi-band modes (one value per band). When creating RGB images, you can also use color strings as supported by the ImageColor module. If the color is None, the image is not initialised. :returns: An :py:class:`~PIL.Image.Image` object." />
@@ -49,13 +51,11 @@
       <item value="FutureWarning: `multichannel` is a deprecated argument name for `rescale`. It will be removed in version 1.0. Please use `channel_axis` instead. yinzi = transform.rescale(img, scale_vector,order=1, mode='constant', cval=0, clip=True," />
       <item value="lower" />
       <item value="TypeError: array() takes from 1 to 2 positional arguments but 12 were given" />
-      <item value="TypeError: expected str, bytes or os.PathLike object, not generator" />
-      <item value="ValueError: too many values to unpack (expected 2)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="83" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
