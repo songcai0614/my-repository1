@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="x and y must have same first dimension, but have shapes (0,) and (1001,)" />
       <item value="UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead." />
       <item value="deprecated" />
       <item value="shape : tuple of ints Shape of created array. dtype : data-type, optional Any object that can be interpreted as a numpy data type. buffer : object exposing buffer interface, optional Used to fill the array with data. offset : int, optional Offset of array data in buffer. strides : tuple of ints, optional Strides of data in memory. order : {'C', 'F'}, optional Row-major (C-style) or column-major (Fortran-style) order." />
@@ -50,12 +51,11 @@
       <item value="Expired Deprecation Error" />
       <item value="deprecator" />
       <item value="Will raise &lt;class 'nibabel.deprecator.ExpiredDeprecationError'&gt; as of version: 5.0" />
-      <item value="raise ValueError(&quot;Supply a single scale, or one value per spatial &quot; ValueError: Supply a single scale, or one value per spatial axis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="89" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
