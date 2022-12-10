@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead." />
+      <item value="deprecated" />
       <item value="shape : tuple of ints Shape of created array. dtype : data-type, optional Any object that can be interpreted as a numpy data type. buffer : object exposing buffer interface, optional Used to fill the array with data. offset : int, optional Offset of array data in buffer. strides : tuple of ints, optional Strides of data in memory. order : {'C', 'F'}, optional Row-major (C-style) or column-major (Fortran-style) order." />
       <item value="&quot;&quot;&quot; ndarray(shape, dtype=float, buffer=None, offset=0, strides=None, order=None) An array object represents a multidimensional, homogeneous array of fixed-size items. An associated data-type object describes the format of each element in the array (its byte-order, how many bytes it occupies in memory, whether it is an integer, a floating point number, or something else, etc.) Arrays should be constructed using `array`, `zeros` or `empty` (refer to the See Also section below). The parameters given here refer to a low-level method (`ndarray(...)`) for instantiating an array. For more information, refer to the `numpy` module and examine the methods and attributes of an array." />
       <item value="interpolate" />
@@ -49,13 +51,11 @@
       <item value="deprecator" />
       <item value="Will raise &lt;class 'nibabel.deprecator.ExpiredDeprecationError'&gt; as of version: 5.0" />
       <item value="raise ValueError(&quot;Supply a single scale, or one value per spatial &quot; ValueError: Supply a single scale, or one value per spatial axis" />
-      <item value="ValueError: Supply a single scale, or one value per spatial axis" />
-      <item value="FutureWarning: `multichannel` is a deprecated argument name for `rescale`. It will be removed in version 1.0. Please use `channel_axis` instead. yinzi = transform.rescale(img, scale_vector,order=1, mode='constant', cval=0, clip=True," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="88" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
