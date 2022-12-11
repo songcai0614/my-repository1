@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AttributeError: module 'numpy' has no attribute 'from_numpy'" />
+      <item value="attribute" />
       <item value="could not convert string '-0.294118,0.487437,0.180328,-0.292929,0,0.00149028,-0.53117,-0.0333333,0' to float32 at row 0, column 1." />
       <item value="ValueError: only one element tensors can be converted to Python scalars" />
       <item value="x and y must have same first dimension, but have shapes (0,) and (1001,)" />
@@ -49,13 +51,11 @@
       <item value="dimages" />
       <item value="dimage" />
       <item value="filebasedimages" />
-      <item value="NIfTI Image Converter (nii2png) for Python and Matlab Rejoice OpenCV users, a lightweight neuroimaging .nii to .png converter that actually works. Now supports both Python3 and Matlab 2017b! Environment Python 3.7 (or Matlab 2017b) Matlab Usage 1. Add your script to your path. And run it simply by typing this and hitting enter: ``` nii2png ``` 2. Select your working directory. 3. Select your NIfTI image. 4. Rotate your image if you wish: ``` &gt;&gt; Would you like to rotate the orientation? (yn) &gt;&gt; y &gt;&gt; OK. By 90° 180° or 270°? &gt;&gt; 90 ``` 5. Let it run. 6. Your png files are now in the png folder of your working directory. Download nii2png for Matlab 2017b Download Latest Build: [Download](https:raw.githubusercontent.comalexlaurenceNIfTI-Image-Convertermastermatlabnii2png.m) Download Stable Release: [Download](https:github.comalexlaurenceNIfTI-Image-Converterreleases) Python Setup For those without Python, Pip or the modules, simply open Terminal and type in the following commands and hit enter. 1. Install Homebrew ``` usrbinruby -e &quot;(curl -fsSL https:raw.githubusercontent.comHomebrewinstallmasterinstall)&quot; ``` 2. Install Python 3 ``` brew install python3 ``` 3. Install pip ``` sudo easy_install pip ``` 4. Install plugins ``` pip install scipy pip install shutil pip install nibabel pip install numpy pip install imageio ``` Download nii2png for Python You can download the latest version of nii2png through pip. ``` pip install nii2png ``` Or alternatively, download the binary files here. Download Latest Build: [Download](https:raw.githubusercontent.comalexlaurenceNIfTI-Image-Convertermasterpythonnii2png.py) Download Stable Release: [Download](https:github.comalexlaurenceNIfTI-Image-Converterreleases) Permissions If you didn't install nii2png through pip, you may need to grant nii2png.py permission to execute. On unix systems, Python scripts can be made executable using the following process: ``` chmod +x nii2png.py ``` Optional: You can also move `nii2png.py` into your bin directory, and it will be runnable from anywhere. Python Usage 1. Let's run the file and start converting images! Please ensure that your output folder ends with a slash to avoid errors. ``` python3 nii2png.py -i &lt;inputfile&gt; -o &lt;outputfolder&gt; ``` or ``` python3 nii2png.py --input &lt;inputfile&gt; --ouput &lt;outputfolder&gt; ``` Tip: You can drag and drop the filefolder into the terminal window instead of typing the path 2. Rotate the images if you wish ``` Would you like to rotate the orientation? (yn) y OK. By 90° 180° or 270°? 90 ``` Example with change directory command ``` cd ~images python3 nii2png.py -i brain.nii -o png ``` with full paths ``` python3 usersernieimagesnii2png.py -i usersernieimagesbrain.nii -o usersernieimagespng ``` with long options ``` python3 usersernieimagesnii2png.py --input usersernieimagesbrain.nii --output usersernieimagespng ```" />
-      <item value="Expired Deprecation Error" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="93" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
