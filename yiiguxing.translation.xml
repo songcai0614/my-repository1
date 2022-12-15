@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clip" />
       <item value="RuntimeError: The size of tensor a (6) must match the size of tensor b (7) at non-singleton dimension 3" />
       <item value="RuntimeError: Given groups=1, weight of size [10, 10, 3, 3], expected input[64, 30, 7, 7] to have 10 channels, but got 30 channels instead" />
       <item value="return F.conv2d(input, weight, bias, self.stride, TypeError: conv2d() received an invalid combination of arguments - got (tuple, Parameter, Parameter, tuple, tuple, tuple, int), but expected one of: (Tensor input, Tensor weight, Tensor bias, tuple of ints stride, tuple of ints padding, tuple of ints dilation, int groups) didn't match because some of the arguments have invalid types: (!tuple!, !Parameter!, !Parameter!, !tuple!, !tuple!, !tuple!, int) (Tensor input, Tensor weight, Tensor bias, tuple of ints stride, str padding, tuple of ints dilation, int groups) didn't match because some of the arguments have invalid types: (!tuple!, !Parameter!, !Parameter!, !tuple!, !tuple!, !tuple!, int)" />
@@ -50,12 +51,11 @@
       <item value="parentheses" />
       <item value="SyntaxError: Missing parentheses in call to 'print'. Did you mean print(i, element)?" />
       <item value="Missing" />
-      <item value="SyntaxError: unexpected EOF while parsing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="99" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
