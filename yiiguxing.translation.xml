@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Double Conv" />
       <item value="clip" />
       <item value="RuntimeError: The size of tensor a (6) must match the size of tensor b (7) at non-singleton dimension 3" />
       <item value="RuntimeError: Given groups=1, weight of size [10, 10, 3, 3], expected input[64, 30, 7, 7] to have 10 channels, but got 30 channels instead" />
@@ -50,12 +51,11 @@
       <item value="jitter" />
       <item value="parentheses" />
       <item value="SyntaxError: Missing parentheses in call to 'print'. Did you mean print(i, element)?" />
-      <item value="Missing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="100" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
