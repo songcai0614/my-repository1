@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unhashable" />
+      <item value="All values of the `Categorical` are either in `categories` or `np.nan`. Assigning values outside of `categories` will raise a `ValueError`. Order is defined by the order of the `categories`, not lexical order of the values." />
+      <item value="Represent a categorical variable in classic R S-plus fashion." />
+      <item value="`Categoricals` can only take on only a limited, and usually fixed, number of possible values (`categories`). In contrast to statistical categorical variables, a `Categorical` might have an order, but numerical operations (additions, divisions, ...) are not possible." />
+      <item value="maintained." />
+      <item value="Operations between Series (+, -, , \\, \\\\) align values based on their associated index values-- they need not be the same length. The result index will be the sorted union of the two indexes." />
+      <item value="Labels need not be unique but must be a hashable type. The object supports both integer- and label-based indexing and provides a host of methods for performing operations involving the index. Statistical methods from ndarray have been overridden to automatically exclude missing data (currently represented as NaN)." />
       <item value="Number of periods to generate" />
       <item value="Left bound for generating dates." />
       <item value="start : str or datetime-like, optional Left bound for generating dates. end : str or datetime-like, optional Right bound for generating dates. periods : int, optional Number of periods to generate. freq : str or DateOffset, default 'D' Frequency strings can have multiples, e.g. '5H'. See :ref:`here &lt;timeseries.offset_aliases&gt;` for a list of frequency aliases. tz : str or tzinfo, optional Time zone name for returning localized DatetimeIndex, for example 'AsiaHong_Kong'. By default, the resulting DatetimeIndex is timezone-naive. normalize : bool, default False Normalize startend dates to midnight before generating date range. name : str, default None Name of the resulting DatetimeIndex. closed : {None, 'left', 'right'}, optional Make the interval closed with respect to the given frequency to the 'left', 'right', or both sides (None, the default)." />
@@ -44,18 +51,11 @@
       <item value="height" />
       <item value="dilation" />
       <item value="check images and mask" />
-      <item value="SyntaxError: invalid decimal literal" />
-      <item value="Keyboard Interrupt" />
-      <item value="Record" />
-      <item value="TypeError: 'type' object is not subscriptable" />
-      <item value="io.UnsupportedOperation: not readable" />
-      <item value="AttributeError: 'builtin_function_or_method' object has no attribute 'sleep'" />
-      <item value="Open file and return a stream. Raise OSError upon failure." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="124" />
         <entry key="POLISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
