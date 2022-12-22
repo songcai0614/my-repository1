@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RuntimeError: The archive ILSVRC2012_devkit_t12.tar.gz is not present in the root directory or is corrupted. You need to download it externally and place it in ImageNet_dataset." />
+      <item value="corrupted" />
       <item value="If format is not set, then the format is inferred from the extension of fname, if there is one. If format is not set and fname has no extension, then the file is saved with :rc:`savefig.format` and the appropriate extension is appended to fname." />
       <item value="If format is set, it determines the output format, and the file is saved as fname. Note that fname is used verbatim, and there is no attempt to make the extension, if any, of fname match format, and no extension is appended." />
       <item value="fname : str or path-like or binary file-like A path, or a Python file-like object, or possibly some backend-dependent object such as `matplotlib.backends.backend_pdf.PdfPages`." />
@@ -49,13 +51,11 @@
       <item value="clip" />
       <item value="RuntimeError: The size of tensor a (6) must match the size of tensor b (7) at non-singleton dimension 3" />
       <item value="RuntimeError: Given groups=1, weight of size [10, 10, 3, 3], expected input[64, 30, 7, 7] to have 10 channels, but got 30 channels instead" />
-      <item value="return F.conv2d(input, weight, bias, self.stride, TypeError: conv2d() received an invalid combination of arguments - got (tuple, Parameter, Parameter, tuple, tuple, tuple, int), but expected one of: (Tensor input, Tensor weight, Tensor bias, tuple of ints stride, tuple of ints padding, tuple of ints dilation, int groups) didn't match because some of the arguments have invalid types: (!tuple!, !Parameter!, !Parameter!, !tuple!, !tuple!, !tuple!, int) (Tensor input, Tensor weight, Tensor bias, tuple of ints stride, str padding, tuple of ints dilation, int groups) didn't match because some of the arguments have invalid types: (!tuple!, !Parameter!, !Parameter!, !tuple!, !tuple!, !tuple!, int)" />
-      <item value="Calculated padded input size per channel: (4 x 4). Kernel size: (5 x 5). Kernel size can't be greater than actual input size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="147" />
         <entry key="POLISH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="ITALIAN" value="1" />
